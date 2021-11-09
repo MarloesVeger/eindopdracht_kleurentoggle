@@ -1,0 +1,80 @@
+body {
+font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+color: black;
+}
+
+.witAchtergrond {
+background-color: whitesmoke;
+}
+
+.menu {
+overflow: hidden;
+position: relative;
+}
+
+.menu #chooseColor {
+display: none;
+}
+
+.menu li {
+list-style: none; 
+padding: 14px 16px;
+text-decoration: none;
+display: block; 
+}
+
+.menu .icon .hamburger {
+width: 35px;
+height: 5px;
+margin: 5px;
+position: relative;
+background: black;
+border-radius: 6px;
+}
+    
+.menu li:hover {
+background-color: #ddd;
+color: black;
+}
+
+.blauw {
+    background-color: #0077ff;
+}
+
+.blauwAchtergrond {
+    background-color: #0077ff;
+}
+
+.groen {
+    background-color: #04c053;
+}
+
+.groenAchtergrond {
+    background-color: #04c053; 
+}
+
+.paars {
+    background-color: rgb(173, 14, 173);
+}
+
+.paarsAchtergrond {
+    background-color: rgb(173, 14, 173);
+}
+
+.roze {
+    background-color: pink;
+}
+
+.rozeAchtergrond {
+    background-color: pink;
+}
+
+.rood {
+    background-color: red;
+}
+
+.roodAchtergrond {
+    background-color: red;
+}
